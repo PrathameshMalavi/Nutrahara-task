@@ -238,12 +238,31 @@ By following this documentation, you should be able to understand, run, and deve
 
 ## Outputs
 
-![IMG_20240520_191609](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/acd30397-baca-4678-b8f5-bf788977277c)
-![IMG_20240520_191616](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/e9b87213-07c2-4557-a3c0-8d1955808947)
-![IMG_20240520_191635](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/f332de22-12e0-4cf1-aee5-4cd5257a2509)
-![IMG_20240520_191649](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/b521579b-9b36-4953-80c8-3e79aa778571)
-![IMG_20240520_191705](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/a1383942-6701-4425-ad07-815d124b9ff7)
-![IMG_20240520_191719](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/4de76469-529d-433f-86dc-c794bf548555)
+<div class="image-grid">
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/acd30397-baca-4678-b8f5-bf788977277c" alt="IMG_20240520_191609" />
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/e9b87213-07c2-4557-a3c0-8d1955808947" alt="IMG_20240520_191616" />
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/f332de22-12e0-4cf1-aee5-4cd5257a2509" alt="IMG_20240520_191635" />
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/b521579b-9b36-4953-80c8-3e79aa778571" alt="IMG_20240520_191649" />
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/a1383942-6701-4425-ad07-815d124b9ff7" alt="IMG_20240520_191705" />
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/4de76469-529d-433f-86dc-c794bf548555" alt="IMG_20240520_191719" />
+</div>
+
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .image-grid img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+</style>
 
 
 ## Contributing
