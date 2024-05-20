@@ -1,6 +1,20 @@
 # web_viewproject
 
-Implemented Webview app for Nutrahara (https://nutrahara.com)
+Sure, let's update the documentation for the WebView app and modify the code to use the `WebView` widget and its controller.
+
+---
+
+## Nutrahara Inc. WebView App Documentation
+
+### Overview
+
+The Nutrahara Inc. WebView App is a Flutter application designed to display the Nutrahara Inc. website (https://nutrahara.com/) within a web view. It includes basic navigation controls (back, forward, refresh) and implements error handling for situations where the website cannot be loaded.
+
+### Features
+
+- Display the Nutrahara Inc. website within a web view.
+- Basic navigation controls (back, forward, refresh).
+- Error handling for failed website loading.
 
 ## Getting Started
 
@@ -15,13 +29,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-
-# WebViewProject Documentation
-
-## Overview
-
-WebViewProject is a Flutter project designed to create a mobile application with webview functionality. It allows users to view web content within the app seamlessly.
 
 ## Dependencies
 
@@ -115,7 +122,7 @@ To use WebViewProject in your Flutter development environment, follow these step
 
 - Customize the app icons for Android and iOS platforms according to your preferences by replacing the existing icon files with your desired ones.
 
-### 3. Usage
+### 3. Major Dependencies
 
 #### 3.1. WebView Integration
 
@@ -154,31 +161,11 @@ if (connectivityResult == ConnectivityResult.mobile || connectivityResult == Con
 }
 ```
 
-### 4. Customization
-
-#### 4.1. UI Customization
-
-- Customize the UI of your app by modifying Flutter widgets, layouts, and styles according to your design requirements.
-
-#### 4.2. Functionality Customization
-
-- Implement additional features and functionalities in your app as needed, such as navigation, data fetching, and user interactions.
-
-### 5. Testing
-
-- Use Flutter's testing framework to write unit tests and integration tests for your app to ensure its stability and reliability.
-
-### 6. Deployment
-
-- Once your app is ready, deploy it to the desired platforms (e.g., Android, iOS) by following the deployment guidelines provided by Flutter.
-
-### 7. Contribution
-
-- Contributions to the project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the project's repository.
-
----
-
-This detailed guide should help you understand how to effectively use the WebViewProject in your Flutter application development workflow. If you have any further questions or need assistance, don't hesitate to ask!
+### 4.  Usage
+1. Run the app on an emulator or physical device.
+2. The Nutrahara Inc. website will be displayed within the app's web view.
+3. Use the navigation controls (back, forward, refresh) to interact with the website.
+4. If the website fails to load, an error Screen will be be displayed.
 
 ## Contributing
 
