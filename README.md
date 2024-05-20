@@ -16,6 +16,7 @@ The Nutrahara Inc. WebView App is a Flutter application designed to display the 
 - Basic navigation controls (back, forward, refresh).
 - Error handling for failed website loading.
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -28,6 +29,43 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# Web View Project Documentation
+
+## Project Overview
+`web_viewproject` is a Flutter application designed to integrate web views into a Flutter app. This document serves as a guide to understanding the project structure, dependencies, and configurations.
+
+## Project Structure
+
+```plaintext
+lib
+├── Screen Widgets
+│   ├── ErrorWidget.dart
+│   └── WebViewStack.dart
+├── screens
+│   ├── SplashScreen.dart
+│   └── WebViewScreen.dart
+├── Ui
+│   ├── network.dart
+│   └── widgets.dart
+└── main.dart
+```
+
+### Folders and Files
+- **lib/Screen Widgets**: Contains widgets specific to the web view functionality, such as error handling and web view stack management.
+  - `ErrorWidget.dart`: Widget to display error Screen.
+  - `WebViewStack.dart`: Widget to handle the stack of web views.
+  
+- **lib/screens**: Contains screen components for the application.
+  - `SplashScreen.dart`: The splash screen displayed at the start of the application.
+  - `WebViewScreen.dart`: The screen that hosts the web view.
+  
+- **lib/Ui**: Contains UI components and network-related functionalities.
+  - `network.dart`: Handles network-related operations to check connectivity.
+  - `widgets.dart`: Custom widgets used throughout the application.
+  
+- **lib/main.dart**: The main entry point of the application.
 
 
 ## Dependencies
@@ -166,6 +204,36 @@ if (connectivityResult == ConnectivityResult.mobile || connectivityResult == Con
 2. The Nutrahara Inc. website will be displayed within the app's web view.
 3. Use the navigation controls (back, forward, refresh) to interact with the website.
 4. If the website fails to load, an error Screen will be be displayed.
+
+### 5. **Run the application**:
+   ```sh
+   flutter run
+   ```
+
+### Building for Release
+To build the application for release, use the following command:
+```sh
+flutter build apk --release
+```
+Or for iOS:
+```sh
+flutter build ios --release
+```
+
+
+## Additional Resources
+
+For more information about Flutter and Dart:
+- [Flutter Documentation](https://flutter.dev/docs)
+- [Dart Documentation](https://dart.dev/guides)
+
+For dependency-specific documentation:
+- [webview_flutter](https://pub.dev/packages/webview_flutter)
+- [lottie](https://pub.dev/packages/lottie)
+- [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
+- [connectivity](https://pub.dev/packages/connectivity)
+
+By following this documentation, you should be able to understand, run, and develop further on the `web_viewproject` Flutter application.
 
 ## Contributing
 
