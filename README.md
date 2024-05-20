@@ -241,7 +241,7 @@ By following this documentation, you should be able to understand, run, and deve
 <div align="center">
   <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/acd30397-baca-4678-b8f5-bf788977277c" alt="IMG_20240520_191609" width="200" />
   <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/e9b87213-07c2-4557-a3c0-8d1955808947" alt="IMG_20240520_191616" width="200" />
-  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/f332de22-12e0-4cf1-aee5-4cd5257a2509" alt="IMG_20240520_191635" width="200" />
+  <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/098b1371-c7a3-4550-846f-aae3bb4c5522" alt="IMG_20240520_191635" width="200" />
 </div>
 <div align="center">
   <img src="https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/b521579b-9b36-4953-80c8-3e79aa778571" alt="IMG_20240520_191649" width="200" />
