@@ -235,6 +235,17 @@ For dependency-specific documentation:
 
 By following this documentation, you should be able to understand, run, and develop further on the `web_viewproject` Flutter application.
 
+
+## Outputs
+
+![IMG_20240520_191609](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/acd30397-baca-4678-b8f5-bf788977277c)
+![IMG_20240520_191616](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/e9b87213-07c2-4557-a3c0-8d1955808947)
+![IMG_20240520_191635](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/f332de22-12e0-4cf1-aee5-4cd5257a2509)
+![IMG_20240520_191649](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/b521579b-9b36-4953-80c8-3e79aa778571)
+![IMG_20240520_191705](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/a1383942-6701-4425-ad07-815d124b9ff7)
+![IMG_20240520_191719](https://github.com/PrathameshMalavi/Nutrahara-task/assets/114830029/4de76469-529d-433f-86dc-c794bf548555)
+
+
 ## Contributing
 
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the project's repository.
