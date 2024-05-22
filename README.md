@@ -46,7 +46,7 @@ lib
 ├── screens
 │   ├── SplashScreen.dart
 │   └── WebViewScreen.dart
-├── Ui
+├── Util
 │   ├── network.dart
 │   └── widgets.dart
 └── main.dart
@@ -61,7 +61,7 @@ lib
   - `SplashScreen.dart`: The splash screen displayed at the start of the application.
   - `WebViewScreen.dart`: The screen that hosts the web view.
   
-- **lib/Ui**: Contains UI components and network-related functionalities.
+- **lib/Util**: Contains UI components and network-related functionalities.
   - `network.dart`: Handles network-related operations to check connectivity.
   - `widgets.dart`: Custom widgets used throughout the application.
   
